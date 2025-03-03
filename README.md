@@ -11,6 +11,7 @@ Tools used: Python, pandas, numpy, matplotlib, seaborn, scikitlearn, regularisat
 Files:
 
 label_encoder ...x.. .joblib and color_ordinal_encoder.joblib - Exported encoder fits to be used for new data
+
 scaler.pkl - Exported scaling model fits to be used for new data
 
 stripplot . . .x. ..png, Mushroom image genaration.pptx - Used to build and display images in ipynb files
